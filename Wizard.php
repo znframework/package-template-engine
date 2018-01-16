@@ -25,7 +25,7 @@ class Wizard
     /**
      * PHP tag isolation
      * 
-     * @param string $data = ''
+     * @param string $data
      * 
      * @return void
      */
