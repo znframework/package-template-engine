@@ -16,7 +16,7 @@
 	},
     "autoload": {
         "psr-4": {
-            "ZN\\": ""
+            "ZN\\TemplateEngine\\": ""
         }
     },
 	"minimum-stability": "dev"
