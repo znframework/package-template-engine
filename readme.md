@@ -25,7 +25,5 @@ Basic level usage is shown below.
 ```php
 <?php require 'vendor/autoload.php';
 
-ZN\Autoloader::register('standart');
-
 echo ZN\TemplateEngine\Wizard::file('home.php');
 ```
