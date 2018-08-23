@@ -38,7 +38,7 @@ class Wizard
             FileBuffering::file($file, $data), 
             $data, 
             Config::default('ZN\TemplateEngine\TemplateEngineDefaultConfiguration')
-                  ::get('ViewObjects', 'wizard')
+                  ->get('ViewObjects', 'wizard')
         );
     }
 }
