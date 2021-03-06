@@ -1,3 +1,14 @@
+<p align="center">
+<a href="https://packagist.org/packages/znframework/package-template-engine" rel="nofollow">
+	<img src="https://img.shields.io/packagist/dt/znframework/package-template-engine?style=flat-square" style="max-width:100%;"></a>
+<a href="//packagist.org/packages/znframework/package-template-engine" rel="nofollow">
+	<img src="https://img.shields.io/github/v/release/znframework/package-template-engine?style=flat-square&color=00BFFF" style="max-width:100%;"></a>
+<a href="//packagist.org/packages/znframework/package-template-engine" rel="nofollow">
+	<img src="https://img.shields.io/github/release-date/znframework/package-template-engine?style=flat-square" style="max-width:100%;"></a>
+<a href="//packagist.org/packages/znframework/package-template-engine" rel="nofollow">
+	<img src="https://img.shields.io/github/license/znframework/package-template-engine?style=flat-square" style="max-width:100%;"></a>
+</p>
+
 <h2>ZN Framework Template Engine Package</h2>
 <p>
 Follow the steps below for installation and use.
