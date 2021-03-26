@@ -21,7 +21,7 @@ class FileBuffering
      * 
      * @return string
      */
-	public static function file(String $file, Array $data = []) : String
+	public static function file(string $file, array $data = []) : string
 	{
 		return Buffering::file($file, $data);
 	}

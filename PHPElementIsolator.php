@@ -20,7 +20,7 @@ class PHPElementIsolator
      * 
      * @return void
      */
-	public static function file(String $file)
+	public static function file(string $file)
 	{
 		Wizard::isolation($file);
 	}
